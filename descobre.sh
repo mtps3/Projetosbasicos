@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Script para encontrar diretorios e arquivos de um site utilizando uma wordlist.
+#Crie sua wordlist para o script
 
 if [ $1 == ""]
 then
