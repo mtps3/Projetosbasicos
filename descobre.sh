@@ -2,7 +2,7 @@
 #Script para encontrar diretorios e arquivos de um site utilizando uma wordlist.
 diretorios=0
 arquivos=0
-if [ $1 == "" ]
+if [ "$1" == "" ]
 then
 	echo "Script para descobrir diretorios e arquivos de um site"
 	echo "exemplo de uso: $0 www.sitealvo.com.br"
