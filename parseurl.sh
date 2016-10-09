@@ -2,7 +2,7 @@
 
 #Nem todos os sites funcionam, sites testados foram:
 
-#uern.br e grandbusiness.com.br
+#uern.br, globo.com e grandbusiness.com.br
 
 #!/bin/bash
 if [ "$1" == "" ]
